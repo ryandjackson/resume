@@ -1,0 +1,66 @@
+body {
+  background-color: lightblue;
+}
+table {
+	border: 1px solid black;
+}
+th, td {
+  border-bottom: 1px solid black;
+}
+#table1 {
+	width: 50%;
+}
+#table2 {
+	width:75%
+}
+#table_login {
+	width:30%
+}
+#centered {
+	text-align: center;
+}
+#table_header {
+	background-color: lightgray;	
+}
+#table_data_id {
+	background-color: white;
+	color: gray;
+	width: 5%;
+	text-align: center;
+}
+#table_data {
+	background-color: white;
+	padding-left: 0.5em;
+	width: 12em;
+}
+#table_delete {
+	background-color: white;
+	padding-top: 10px;
+  	text-align: center;
+	width: 5%;
+
+}
+#trashcan {
+  background-image: url("trashcan.png"); /* Change url to wanted image */
+  background-size: cover;
+  border: none;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  color: transparent;
+}
+#formentry {
+	width: 100%;
+}
+#form_fields {
+	width: 25%;
+}
+#email {
+	width: 100%;
+}
+#formentry {
+	width: 100%;
+}
+#id_1723 {
+	width: 100%;
+}
